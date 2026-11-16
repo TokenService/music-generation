@@ -4,6 +4,14 @@
 
 Provided by [New.bi](https://api.new.bi), a professional, stable, and reliable AI model aggregation gateway.
 
+## Install with an agent
+
+Send this line to an agent. It downloads, unpacks, authenticates and runs the tool:
+
+```text
+Install and use the New.bi music skill: download https://pub-817cae131e2b4e0a8ce0a9f8bac75462.r2.dev/down/music-generation.zip, unpack it, run python3 scripts/gateway.py login --key <your key>, confirm with doctor, then write a song, instrumental, cover or continuation with music create.
+```
+
 Music generation CLI for an AI gateway.
 
 - Songs from a description, with title and style tags
